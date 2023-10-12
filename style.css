@@ -1,0 +1,182 @@
+
+.list {list-style-type: none;}
+
+.link 
+{text-decoration: none;}
+
+button {cursor: pointer;}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logotype{
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1,17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+}
+
+.plane-name{
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1,17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2E2F42;
+}
+
+.menu-link{
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1,5;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.menu-link:hover,
+.menu-link:focus{
+    color: #404BBF;
+}
+
+.contact-list-link{
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1,5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.contact-list-link:hover,
+.contact-list-link:focus{
+    color: #404BBF;
+}
+
+.contact-tel-link {
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1, 5;
+        letter-spacing: 0.02em;
+        color: #434455;
+    }
+
+.visually-hidden{
+    position: absolute;
+        width: 1px;
+        height: 1px;
+        margin: -1px;
+        border: 0;
+        padding: 0;
+    
+        white-space: nowrap;
+        clip-path: inset(100%);
+        clip: rect(0 0 0 0);
+        overflow: hidden;
+}
+
+.hero{background: #2E2F42;}
+
+.hero-title{
+    text-align: center;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1,07;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+.service-btn{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1,5;
+    letter-spacing: 0.04em;
+    background: #4D5AE5;
+    color: #FFFFFF;
+}
+
+.service-btn:hover,
+.service-btn:focus {
+    background:#404BBF;
+}
+
+.start-list-title{
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1,2;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.start-list-text{
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1,5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.team-title{
+        text-align: center;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1,11;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: #2E2F42;
+}
+
+.team-img-title{
+        text-align: center;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1,2;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.portfolio-title{
+        text-align: center;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1,11;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: #2E2F42;
+}
+
+.portfolio-img-title{
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1,2;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.portfolio-img-text{
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1,5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.page-footer{
+    background: #2E2F42;
+}
+
+.plane-name-sudio{
+    color: #F4F4FD;
+}
+
+.footer-text{
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1,5;
+        letter-spacing: 0.02em;
+        color: #F4F4FD;
+}
