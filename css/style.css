@@ -126,6 +126,11 @@ body {
 .team{
     background:#F4F4FD;
 }
+
+.team-title-list{
+background-color: #FFFFFF;
+}
+
 .team-title{
         text-align: center;
         font-size: 36px;
