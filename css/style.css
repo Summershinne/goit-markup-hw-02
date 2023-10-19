@@ -29,7 +29,6 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2E2F42;
 }
 
 .menu-link{
@@ -133,7 +132,6 @@ background-color: #FFFFFF;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         color: #2E2F42;
-        background-color: #FFFFFF;
 }
 
 .team-img-title{
